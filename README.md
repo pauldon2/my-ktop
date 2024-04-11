@@ -5,7 +5,7 @@ Usage
 
 Example
 
-./kubeplugin pod kubesystem
+./kubeplugin pod kube-system
 
 ```
 pod kube-system coredns-76f75df574-htj8q 2m 44Mi
